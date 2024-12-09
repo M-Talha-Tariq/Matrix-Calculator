@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.styling{
+    width: 400px;
+    margin: 25% auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.function{
+    width: 100%;
+    display: flex;
+    margin:20px;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.size{
+    width:100px ;
+    height:30px ;
+    border-radius: 5px;
+}
+.bdr{
+    width:150px ;
+    height:24px ;
+}
